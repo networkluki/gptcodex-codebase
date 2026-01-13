@@ -26,7 +26,7 @@ The result is that one:
 - retains knowledge longer  
 - develops stronger problem-solving skills  
 
-AI then becomes not a shortcut around learning, but an **acceleration tool for learning** across domains.
+AI then becomes not a shortcut around learning, but an **acceleration tool for learning** across areas.
 
 ---
 
