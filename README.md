@@ -26,5 +26,5 @@ The result is that one:
 - retains knowledge longer  
 - develops stronger problem-solving skills  
 
-AI then becomes not a shortcut around learning, but an **acceleration tool for learning** across areas.
+AI then becomes not a shortcut around learning, but an **acceleration tool for learning** across areas.<br>
 The advantages of AI are that you learn to write in a different way and in a better way and how you optimize the code in this way, AI is powerfully useful.
