@@ -1,6 +1,6 @@
 # gptcodex-codebase
 
-## Why Artificial Intelligence?
+## Why Artificial Intelligence? How to use AI correctly.
 
 It is still relatively few who truly understand how Artificial Intelligence can be used effectively.  
 For me, AI is not a replacement for thinking — it is a **toolbox**.
