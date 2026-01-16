@@ -1,4 +1,4 @@
-# gptcodex-codebase
+# gptcodex-codebase / https://lukihackwell.com/networkluki.pdf
 
 ## Why Artificial Intelligence? How to use AI correctly.
 
